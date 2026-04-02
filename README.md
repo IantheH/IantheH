@@ -5,7 +5,7 @@ cloud engineering, with over a decade of experience across project management,
 Salesforce cloud administration, systems analysis, and SaaS operations.
 
 I founded and operate [Expansion Software & Services](https://getexpansion.com) — 
-a SaaS CRM platform serving clients in healthcare, financial services, and retail. 
+a SaaS CRM platform serving clients in healthcare, financial services, captive insurance agencies, and real estate. 
 That experience — managing uptime, client escalations, data integrity, and 
 platform operations — is what drives my move into cloud support and compliance.
 
