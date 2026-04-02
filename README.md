@@ -1,13 +1,14 @@
-# Hi, I'm Ianthe Hernandez pronounced (eye-an-thee)👋
+# Hi, I'm Ianthe Hernandez (eye-an-thee) 👋
 
-I'm a PMP and CSM-certified technology professional transitioning into 
-cloud engineering, with over a decade of experience across project management, 
-Salesforce cloud administration, systems analysis, and SaaS operations.
+I'm a PMP and CSM-certified technology professional, SaaS founder, and agentic AI operator transitioning into cloud engineering.
 
-I founded and operate [Expansion Software & Services](https://getexpansion.com) — 
-a SaaS CRM platform serving clients in healthcare, financial services, captive insurance agencies, and real estate. 
-That experience — managing uptime, client escalations, data integrity, and 
-platform operations — is what drives my move into cloud support and compliance.
+I founded and operate [Expansion Software & Services](https://getexpansion.com) — a SaaS CRM platform serving clients in healthcare, financial services, captive insurance, and real estate. As part of that work, I architected and deployed Thomas — a personalized agentic AI operator built in OpenClaw to manage business operations, research, workflow execution, and knowledge management across the platform.
+
+---
+
+## 🤖 What I've Built — Thomas (Agentic AI Operator)
+
+Thomas is a personalized AI operator built within OpenClaw to support business operations, research, workflow execution, and knowledge management. He combines conversational assistance with tool use, memory, and multi-step task handling — functioning as an operational agent rather than a traditional chatbot. Thomas operates with bounded autonomy, taking initiative on internal workflows while deferring to human oversight for sensitive or high-impact actions.
 
 ---
 
@@ -26,6 +27,8 @@ platform operations — is what drives my move into cloud support and compliance
 ---
 
 ## 🛠️ Skills
+- Agentic AI Architecture & Deployment (OpenClaw)
+- AI Tools: ChatGPT, Claude, Claude Code, Manus, HighLevel
 - Cloud Platforms: AWS, Azure, Google Cloud (foundational)
 - Salesforce Administration & CRM Architecture
 - SaaS Operations & Incident Resolution
@@ -38,9 +41,7 @@ platform operations — is what drives my move into cloud support and compliance
 ---
 
 ## 🔭 What I'm Building
-As I work through my cloud certifications, I'll be adding hands-on 
-labs and projects here — starting with AWS fundamentals and building 
-toward cloud support and compliance use cases.
+Currently expanding Thomas's capabilities within OpenClaw while working toward cloud certifications. Upcoming repositories will document hands-on AWS labs and cloud compliance projects.
 
 ---
 
@@ -48,3 +49,4 @@ toward cloud support and compliance use cases.
 - [LinkedIn](https://linkedin.com/in/ianthehernandez)
 - [X / Twitter](https://x.com/IantheHernandez)
 - [CodePen](https://codepen.io/IantheH)
+- [Website](https://getexpansio
