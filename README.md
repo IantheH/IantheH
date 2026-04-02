@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Ianthe Hernandez pronounced (eye-an-thee)👋
 
-<!--
-**IantheH/IantheH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PMP and CSM-certified technology professional transitioning into 
+cloud engineering, with over a decade of experience across project management, 
+Salesforce cloud administration, systems analysis, and SaaS operations.
 
-Here are some ideas to get you started:
+I founded and operate [Expansion Software & Services](https://getexpansion.com) — 
+a SaaS CRM platform serving clients in healthcare, financial services, and retail. 
+That experience — managing uptime, client escalations, data integrity, and 
+platform operations — is what drives my move into cloud support and compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Certifications
+- PMP — Project Management Professional
+- CSM — Certified Scrum Master
+- Salesforce Administrator
+- MSOL — M.S. Organizational Leadership, Nyack College
+
+## 📚 Currently Pursuing
+- AWS Cloud Practitioner *(in progress)*
+- Google Cloud Digital Leader *(in progress)*
+- AZ-900 Azure Fundamentals *(in progress)*
+- CompTIA Cloud Essentials+ *(in progress)*
+
+---
+
+## 🛠️ Skills
+- Cloud Platforms: AWS, Azure, Google Cloud (foundational)
+- Salesforce Administration & CRM Architecture
+- SaaS Operations & Incident Resolution
+- Workflow Automation & AI-Driven Processes
+- Project Management & Governance (PMP, Scrum)
+- HIPAA-Regulated Environments
+- Systems Analysis & IT Support
+- HTML, CSS, JavaScript
+
+---
+
+## 🔭 What I'm Building
+As I work through my cloud certifications, I'll be adding hands-on 
+labs and projects here — starting with AWS fundamentals and building 
+toward cloud support and compliance use cases.
+
+---
+
+## 📬 Connect With Me
+- [LinkedIn](https://linkedin.com/in/ianthehernandez)
+- [X / Twitter](https://x.com/IantheHernandez)
+- [CodePen](https://codepen.io/IantheH)
