@@ -20,9 +20,6 @@ Thomas is a personalized AI operator built within OpenClaw to support business o
 
 ## 📚 Currently Pursuing
 - AWS Cloud Practitioner *(in progress)*
-- Google Cloud Digital Leader *(in progress)*
-- AZ-900 Azure Fundamentals *(in progress)*
-- CompTIA Cloud Essentials+ *(in progress)*
 
 ---
 
