@@ -45,5 +45,4 @@ Currently expanding Thomas's capabilities within OpenClaw while working toward c
 ## 📬 Connect With Me
 - [LinkedIn](https://linkedin.com/in/ianthehernandez)
 - [X / Twitter](https://x.com/IantheHernandez)
-- [CodePen](https://codepen.io/IantheH)
-- [Website](https://getexpansio
+- [Website](https://ianthehernandez.com)
