@@ -18,9 +18,6 @@ A personalized AI operator built within OpenClaw to support business operations,
 - Salesforce Administrator
 - MSOL — M.S. Organizational Leadership, Nyack College
 
-## 📚 Currently Pursuing
-- AWS Cloud Practitioner *(in progress)*
-
 ---
 
 ## 🛠️ Skills
