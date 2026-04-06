@@ -8,7 +8,7 @@ I founded and operate [Expansion Software & Services](https://getexpansion.com) 
 
 ## 🤖 What I've Built — Thomas (Agentic AI Operator)
 
-Thomas is a personalized AI operator built within OpenClaw to support business operations, research, workflow execution, and knowledge management. He combines conversational assistance with tool use, memory, and multi-step task handling — functioning as an operational agent rather than a traditional chatbot. Thomas operates with bounded autonomy, taking initiative on internal workflows while deferring to human oversight for sensitive or high-impact actions.
+A personalized AI operator built within OpenClaw to support business operations, research, workflow execution, and knowledge management. It combines conversational assistance with tool use, memory, and multi-step task handling — functioning as an operational agent rather than a traditional chatbot. Operates with bounded autonomy, taking initiative on internal workflows while deferring to human oversight for sensitive or high-impact actions.
 
 ---
 
