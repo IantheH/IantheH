@@ -35,7 +35,7 @@ A personalized AI operator built within OpenClaw to support business operations,
 ---
 
 ## 🔭 What I'm Building
-Currently expanding Thomas's capabilities within OpenClaw while working toward cloud certifications. Upcoming repositories will document hands-on AWS labs and cloud compliance projects.
+Currently expanding my AI operator's capabilities within OpenClaw while working toward cloud certifications. Upcoming repositories will document hands-on Azure labs and cloud compliance projects.
 
 ---
 
