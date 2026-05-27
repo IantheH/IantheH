@@ -1,45 +1,81 @@
 # Hi, I'm Ianthe Hernandez (eye-an-thee) 👋
 
-I'm a PMP and CSM-certified technology professional, SaaS founder, and agentic AI operator transitioning into cloud engineering.
+I'm a PMP, Certified ScrumMaster, and Salesforce Certified Administrator with a background in Customer Success, Technical Account Management, SaaS adoption, CRM implementation, and AI-enabled workflow automation.
 
-I founded and operate [Expansion Software & Services](https://getexpansion.com) — a SaaS CRM platform serving clients in healthcare, financial services, captive insurance, and real estate. As part of that work, I architected and deployed Thomas — a personalized agentic AI operator built in OpenClaw to manage business operations, research, workflow execution, and knowledge management across the platform.
+I’m also the founder and operator of Expansion Software & Services, where I manage a SaaS CRM platform supporting 70+ active client accounts across HR, captive insurance, real estate, ecommerce, coaching, and nonprofit sectors.
+
+My work focuses on helping customers onboard, adopt, and succeed with SaaS platforms through clear communication, workflow guidance, technical support, automation, and ongoing account relationship management.
 
 ---
 
-## 🤖 What I've Built — Thomas (Agentic AI Operator)
+## 💡 What I Focus On
 
-A personalized AI operator built within OpenClaw to support business operations, research, workflow execution, and knowledge management. It combines conversational assistance with tool use, memory, and multi-step task handling — functioning as an operational agent rather than a traditional chatbot. Operates with bounded autonomy, taking initiative on internal workflows while deferring to human oversight for sensitive or high-impact actions.
+- Customer Success and customer lifecycle management
+- Customer onboarding and product adoption
+- SaaS adoption and CRM implementation
+- Technical account support and incident resolution
+- Workflow automation and AI-enabled operations
+- Stakeholder communication and process improvement
+- Knowledge management and documentation
+
+---
+
+## 🤖 AI Workflow Automation
+
+I build and use AI-enabled workflow systems to support business operations, research, workflow execution, customer onboarding, documentation, and knowledge management.
+
+My AI work is practical and customer-centered: improve repeatable processes, reduce manual work, support better follow-through, and keep sensitive or high-impact decisions under human oversight.
+
+Tools I work with include ChatGPT, Claude, Claude Code, Manus, OpenClaw, HighLevel, Zapier, Make, and related workflow automation platforms.
+
+---
+
+## 🛠 Tools & Platforms
+
+**CRM & Customer Platforms:** Salesforce, HighLevel, HubSpot, Zendesk, Freshdesk, Intercom, Help Scout
+
+**Automation & Workflow:** Zapier, Make, n8n, Salesforce Process Builder, HighLevel Workflows
+
+**AI & Knowledge Tools:** ChatGPT, Claude, Claude Code, Google Gemini, Manus, OpenClaw, Internal Knowledge Base Systems
+
+**Cloud Platforms:** Google Cloud, AWS Management Console
+
+**Project & Collaboration:** Jira, ClickUp, Asana, Trello, Notion, Smartsheet, Slack, Zoom, Microsoft Teams, Loom, Google Meet
+
+**Data & Reporting:** Salesforce Reports & Dashboards, HighLevel Analytics, Google Analytics, Google Sheets, Microsoft Excel, Airtable
+
+**Integrations & Payments:** Shopify, Stripe, PayPal, Square
 
 ---
 
 ## 🏅 Certifications
-- PMP — Project Management Professional
-- CSM — Certified Scrum Master
-- Salesforce Administrator
-- MSOL — M.S. Organizational Leadership, Nyack College
+
+- Project Management Professional (PMP)
+- Certified ScrumMaster
+- Salesforce Certified Administrator
+- Google Cloud Digital Leader, In Progress
+- Maxwell Leadership Certified Coach, Speaker & Trainer
+- M.S., Organizational Leadership
 
 ---
 
-## 🛠️ Skills
-- Agentic AI Architecture & Deployment (OpenClaw)
-- AI Tools: ChatGPT, Claude, Claude Code, Manus, HighLevel
-- Cloud Platforms: AWS, Azure, Google Cloud (foundational)
-- Salesforce Administration & CRM Architecture
-- SaaS Operations & Incident Resolution
-- Workflow Automation & AI-Driven Processes
-- Project Management & Governance (PMP, Scrum)
-- HIPAA-Regulated Environments
-- Systems Analysis & IT Support
-- HTML, CSS, JavaScript
+## 🚧 What I'm Building
 
----
+I'm building and documenting practical examples at the intersection of Customer Success, SaaS adoption, CRM workflows, and AI-enabled operations.
 
-## 🔭 What I'm Building
-Currently expanding my AI operator's capabilities within OpenClaw while working toward cloud certifications. Upcoming repositories will document hands-on Azure labs and cloud compliance projects.
+Upcoming areas may include:
+
+- Customer onboarding workflow examples
+- SaaS adoption and account health templates
+- AI-assisted knowledge management workflows
+- CRM automation examples
+- Technical account support documentation
+- Customer success process templates
 
 ---
 
 ## 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/ianthehernandez)
-- [X / Twitter](https://x.com/IantheHernandez)
-- [Website](https://ianthehernandez.com)
+
+- [LinkedIn](https://www.linkedin.com/in/ianthehernandez/)
+- [Website](https://www.ianthehernandez.com)
+- [Expansion Software & Services](https://getexpansion.com)
