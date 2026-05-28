@@ -61,7 +61,7 @@ Tools I work with include ChatGPT, Claude, Claude Code, Manus, OpenClaw, HighLev
 
 ## 🚧 What I'm Building
 
-I'm building and documenting practical examples at the intersection of Customer Success, SaaS adoption, CRM workflows, and AI-enabled operations.
+I'm building and documenting practical examples at the intersection of Customer Success, SaaS adoption, Product Adoption, CRM workflows, and AI-enabled operations.
 
 Upcoming areas may include:
 
@@ -72,6 +72,17 @@ Upcoming areas may include:
 - Technical account support documentation
 - Customer success process templates
 
+---  
+
+## 📂 Featured Customer Success Resources
+
+I'm building practical resources at the intersection of Customer Success, SaaS adoption, Technical Account Management, CRM workflows, and AI-enabled operations.
+
+Featured repositories:
+
+- [Customer Onboarding Workflow Template](https://github.com/YOUR-USERNAME/customer-onboarding-workflow-template)
+- [Technical Account Support Runbook](https://github.com/YOUR-USERNAME/technical-account-support-runbook)
+  
 ---
 
 ## 📬 Connect With Me
