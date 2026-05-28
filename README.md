@@ -82,6 +82,8 @@ Featured repositories:
 
 - [Customer Onboarding Workflow Template](https://github.com/IantheH/customer-onboarding-workflow-template)
 - [Technical Account Support Runbook](https://github.com/IantheH/technical-account-support-runbook)
+- [SaaS Account Health Scorecard](https://github.com/YOUR-USERNAME/saas-account-health-scorecard)
+- [QBR Business Review Template](https://github.com/YOUR-USERNAME/qbr-business-review-template)
   
 ---
 
