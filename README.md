@@ -80,8 +80,8 @@ I'm building practical resources at the intersection of Customer Success, SaaS a
 
 Featured repositories:
 
-- [Customer Onboarding Workflow Template](https://github.com/YOUR-USERNAME/customer-onboarding-workflow-template)
-- [Technical Account Support Runbook](https://github.com/YOUR-USERNAME/technical-account-support-runbook)
+- [Customer Onboarding Workflow Template](https://github.com/IantheH/customer-onboarding-workflow-template)
+- [Technical Account Support Runbook](https://github.com/IantheH/technical-account-support-runbook)
   
 ---
 
