@@ -80,6 +80,9 @@ I'm building practical resources at the intersection of Customer Success, SaaS a
 
 Featured repositories:
 
+- [Customer Account Health Command Center](https://github.com/IantheH/customer-account-health-command-center)  
+  Live demo: [Open app](https://iantheh.github.io/customer-account-health-command-center/)
+
 - [Customer Success Plan Builder](https://github.com/IantheH/customer-success-plan-builder)  
   Live demo: [Open app](https://iantheh.github.io/customer-success-plan-builder/)
 
