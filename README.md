@@ -80,12 +80,13 @@ I'm building practical resources at the intersection of Customer Success, SaaS a
 
 Featured repositories:
 
-- [Customer Onboarding Workflow Template](https://github.com/IantheH/customer-onboarding-workflow-template)
-- [Technical Account Support Runbook](https://github.com/IantheH/technical-account-support-runbook)
-- [SaaS Account Health Scorecard](https://github.com/IantheH/saas-account-health-scorecard)
-- [QBR Business Review Template](https://github.com/IantheH/qbr-business-review-template)
 - [Customer Success Plan Builder](https://github.com/IantheH/customer-success-plan-builder)  
   Live demo: [Open app](https://iantheh.github.io/customer-success-plan-builder/)
+
+- [Customer Onboarding Workflow Template](https://github.com/IantheH/customer-onboarding-workflow-template)
+- [SaaS Account Health Scorecard](https://github.com/IantheH/saas-account-health-scorecard)
+- [QBR Business Review Template](https://github.com/IantheH/qbr-business-review-template)
+- [Technical Account Support Runbook](https://github.com/IantheH/technical-account-support-runbook)
   
 ---
 
