@@ -84,7 +84,8 @@ Featured repositories:
 - [Technical Account Support Runbook](https://github.com/IantheH/technical-account-support-runbook)
 - [SaaS Account Health Scorecard](https://github.com/IantheH/saas-account-health-scorecard)
 - [QBR Business Review Template](https://github.com/IantheH/qbr-business-review-template)
-- [Customer Success Plan Builder](https://github.com/IantheH/customer-success-plan-builder)
+- [Customer Success Plan Builder](https://github.com/IantheH/customer-success-plan-builder)  
+  Live demo: [Open app](https://iantheh.github.io/customer-success-plan-builder/)
   
 ---
 
