@@ -1,8 +1,8 @@
 # Hi, I'm Ianthe Hernandez (eye-an-thee) 👋
 
-I'm a Customer Success and Program Delivery leader with experience across SaaS adoption, CRM implementation, business transformation, and AI-enabled operations.
+I'm a Technology leader with experience across SaaS adoption, CRM implementation, business transformation, and AI-enabled operations.
 
-At Expansion Software & Services, I lead the customer-facing strategy and operations of a SaaS CRM platform serving 70+ active client accounts across HR, captive insurance, real estate, ecommerce, coaching, and nonprofit sectors.
+At Expansion Software & Services, I lead the customer-facing strategy and operations of a SaaS CRM platform serving 100+ active client accounts across HR, captive insurance, real estate, ecommerce, home service, coaching, and nonprofit sectors.
 
 My work connects customer needs, business requirements, cross-functional delivery, technology adoption, and measurable outcomes.
 
@@ -27,7 +27,7 @@ I design and implement practical AI-enabled workflows that connect stakeholder n
 
 My work includes AI use-case development, workflow automation, knowledge management, documentation, onboarding, research, and operational efficiency.
 
-Tools include ChatGPT, Claude, Claude Code, Manus, OpenClaw, HighLevel, Make, Zapier, n8n, and related automation platforms.
+Tools include ChatGPT, Claude, Claude Code, HighLevel, Make, Zapier, n8n, and related automation platforms.
 
 ---
 
@@ -37,7 +37,7 @@ Tools include ChatGPT, Claude, Claude Code, Manus, OpenClaw, HighLevel, Make, Za
 
 **Program & Delivery:** Jira, ClickUp, Asana, Trello, Notion, Smartsheet, Agile, Scrum, PMBOK, Waterfall, Change Management
 
-**AI & Automation:** ChatGPT, Claude, Claude Code, Google Gemini, Manus, OpenClaw, Make, Zapier, n8n, HighLevel Workflows
+**AI & Automation:** ChatGPT, ChatGPT Work, Claude, Claude Code, Claude Duet, Google Gemini, Make, Zapier, n8n, HighLevel Workflows
 
 **Data & Reporting:** Salesforce Reports & Dashboards, HighLevel Analytics, Google Analytics, Google Sheets, Microsoft Excel, Airtable
 
@@ -54,10 +54,9 @@ Tools include ChatGPT, Claude, Claude Code, Manus, OpenClaw, HighLevel, Make, Za
 - Project Management Professional (PMP)
 - Salesforce Certified Platform Administrator
 - Certified ScrumMaster
-- Certified AI Consultant Program — In Progress, anticipated August 2026
+- Certified AI Consultant
 - Maxwell Leadership Certified Team Member
 - Maxwell Leadership Certified Team DISC Trainer
-- Google Cloud Digital Leader — In Progress
 - M.S., Organizational Leadership
 
 ---
